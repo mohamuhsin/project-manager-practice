@@ -18,7 +18,7 @@ export default function NewProject() {
             <div>
                 <Input label="Title" />
                 <Input label="Description" textarea />
-                <Input label="Dur Date" />
+                <Input label="Due Date" />
             </div>
         </div>
     );
