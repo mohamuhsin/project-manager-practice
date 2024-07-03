@@ -16,3 +16,5 @@ const Input = forwardRef(function Input({ label, textarea, ...props }, ref) {
         </p>
     );
 });
+
+export default Input;
